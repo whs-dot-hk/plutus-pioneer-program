@@ -8,7 +8,7 @@
  - [Part 2 - The EUTxO-Model](https://youtu.be/bfofA4MM0QE) V
  - [Part 3 - Building the Example Code](https://youtu.be/zPaDp4R9X7o) V
  - [Part 4 - Auction Contract in the EUTxO-Model](https://youtu.be/Bj6bqRGT1L0) V
- - [Part 5 - Auction Contract on the Playground](https://youtu.be/K61Si6iQ-Js)
+ - [Part 5 - Auction Contract on the Playground](https://youtu.be/K61Si6iQ-Js) V
  - [Part 6 - Homework](https://youtu.be/tfanOE2ARho)
 
 ### [Lecture #2](https://www.youtube.com/playlist?list=PLNEK_Ejlx3x0mhPmOjPSHZPtTFpfJo3Nd)
